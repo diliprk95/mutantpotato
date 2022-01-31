@@ -1,0 +1,173 @@
+/* .text-color{
+    color: #cfa935;
+}
+
+.text-color:focus{
+    color: #ffffff;
+}
+.text-color:hover{
+    color: #ffffff;
+}
+
+.welcome-msg{
+    margin-top: 3rem!important;
+    margin-bottom: 4rem!important;
+}
+
+.scrollspy-example {
+    padding-top: 120px;
+}
+
+button.carousel-control-next, button.carousel-control-prev {
+    width: 3%;
+}
+
+.collection-box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-right: -8px;
+    margin-left: -8px;
+  }
+
+  @media screen and (max-width: 991px) {
+    .collection-box {
+      display: none;
+    }
+  }
+
+.left-collections {
+  display: block;
+  width: 50%;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+.collection-grid1 {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: minmax(0px, 1fr) minmax(0px, 1fr) minmax(0px, 1fr);
+    grid-template-columns: minmax(0px, 1fr) minmax(0px, 1fr) minmax(0px, 1fr);
+    -ms-grid-rows: auto auto auto;
+    grid-template-rows: auto auto auto;
+}
+
+#w-node-_670beaaa-da4a-0870-8c63-623cc40bf2d4-b290a2aa {
+  -ms-grid-column-span: 1;
+  grid-column-end: 3;
+  -ms-gridcolumn: 2;
+  grid-column-start: 2;
+  -ms-grid-row-span: 1;
+  grid-row-end: 4;
+  -ms-gridrow: 3;
+  grid-row-start: 3;
+}
+  
+#w-node-a67567a3-4140-c796-eb5b-be980eaae6ba-b290a2aa {
+  -ms-grid-column-span: 1;
+  grid-column-end: 2;
+  -ms-gridcolumn: 1;
+  grid-column-start: 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: 4;
+  -ms-gridrow: 3;
+  grid-row-start: 3;
+}
+
+
+#w-node-_66bf9a24-3e7b-c300-2fcf-1e84dc48595c-b290a2aa {
+  -ms-grid-column-span: 1;
+  grid-column-end: 4;
+  -ms-gridcolumn: 3;
+  grid-column-start: 3;
+  -ms-grid-row-span: 1;
+  grid-row-end: 4;
+  -ms-gridrow: 3;
+  grid-row-start: 3;
+}
+
+#w-node-_68d20d49-9e88-7b20-65ef-c1f3d316580e-b290a2aa {
+  -ms-grid-column-span: 2;
+  grid-column-end: 4;
+  -ms-gridcolumn: 2;
+  grid-column-start: 2;
+  -ms-grid-row-span: 1;
+  grid-row-end: 3;
+  -ms-gridrow: 2;
+  grid-row-start: 2;
+}
+.right-collections {
+  display: block;
+  width: 50%;
+  padding-right: 0px;
+  padding-left: 60px;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.collection-grid2 {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: minmax(0px, 1fr) minmax(0px, 1fr);
+  grid-template-columns: minmax(0px, 1fr) minmax(0px, 1fr);
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.collection-button {
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  background: #f9c305;
+  border-radius: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a.collection-button {
+  text-decoration: none;
+}
+
+@media (max-width: 991px) {
+  .collection-button {
+    padding: 15px 10px;
+  }
+}
+
+.buttonTitle {
+  font-family: Urbanist;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 32px;
+  text-align: center;
+}
+
+.buttonText {
+  font-family: Urbanist;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+
+  text-decoration: none;
+}
+
+@media (max-width: 991px) {
+  .buttonText {
+    text-transform: uppercase;
+  }
+} */

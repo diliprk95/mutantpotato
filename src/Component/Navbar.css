@@ -1,0 +1,29 @@
+a.navbar-brand {
+    margin-right: 27rem;
+}
+
+.pading-lf{
+    border-radius: 100%;
+    margin-right: 10px;
+}
+
+.nav-color{
+  color: #cfa935 !important;
+}
+
+.nav-link:focus{
+    color: #ffffff !important;
+}
+.nav-link:hover{
+    color: #ffffff !important;
+}
+
+.social-link {
+  width: 50px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.full-image {
+  width: 100%;
+}
